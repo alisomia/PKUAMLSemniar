@@ -145,7 +145,7 @@
 
     Convergence Analysis of Forward-Backward Accelerated Algorithms
 
-        <details>
+    <details>
     <summary>具体信息</summary>
     
     <p>
