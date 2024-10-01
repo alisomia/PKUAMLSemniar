@@ -57,7 +57,22 @@
 1. Oct 9
     张东航（中国科学院数学与系统科学研究院，博士后） 
 
-    TBA
+    题目：p-Multigrid method for elliptic problem
+
+    <details>
+    <summary>具体信息</summary>
+    <p>
+    <b>摘要</b>:
+
+    In this talk, we propose the two-level and W-cycle algorithms of p-multigrid method designed to solve the linear systems of equations generated from p-version symmetric interior penalty discontinuous Galerkin (SIPDG) discretizations for elliptic problems. This SIPDG discretization employs hierarchical Legendre polynomial basis functions, where we can design restriction and prolongation operators between different discrete polynomial spaces naturally. Inspired by the uniform convergence theory of the W-cycle algorithm of hp-multigrid method in [P. F. Antonietti, et.al., SIAM J. Numer. Anal., 53 (2015)], we extend their work by providing a more refined matrix-based analysis. Specifically, we estimate the spectral radius of the stiffness matrix and its diagonal matrix, assess the approximation property of coarsest level correction, and analyze the smoothing properties of polynomial smoother based on fourth-kind Chebyshev polynomial iterative method. Building on these foundations, we provide a rigorous matrix-based convergence analysis for the proposed p-multigrid method, considering both inherited and non-inherited bilinear forms of SIPDG discretization. Our theoretical results show significant improvement over [P. F. Antonietti, et.al., SIAM J. Numer. Anal., 53 (2015)], reducing the required number of smoothing steps from O(p^2) to O(p), where p is the polynomial degree of the discrete broken polynomial space. Moreover, the convergence rate remains independent of the mesh size. Finally, several numerical experiments are presented to validate our theoretical findings.
+    </p>
+    <p>
+    <b>报告人信息</b>:
+
+    张东航，2015-2020 中国科学院数学与系统科学院，计算数学博士；2020-2023北京大学北京国际数学研究中心，博士后; 2023年至今，中国科学院数学与系统科学研究院基础软件研究中心。
+
+    </p>
+    </details>
 1. Oct 16
 1. Oct 23
    李世凤（武汉大学，博士后）
