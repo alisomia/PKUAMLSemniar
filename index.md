@@ -55,7 +55,8 @@
 
 1. ~~Oct 2~~ (假期)
 1. Oct 9
-    张东航（中国科学院数学与系统科学研究院，博士后） 
+
+    **张东航**，中国科学院数学与系统科学研究院，博士后
 
     题目：p-Multigrid method for elliptic problem
 
