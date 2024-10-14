@@ -110,7 +110,22 @@
 
    **张悦嘉**，复旦大学，博士生
 
-   TBA
+   题目：Parallel Coordinate Descent Methods for Full Configuration Interaction
+
+    <details>
+    <summary>具体信息</summary>
+    <p>
+    <b>摘要</b>:
+
+    Solving the time-independent Schrödinger equation gives us full access to the chemical properties of molecules. Among all the ab-initio methods, full configuration interaction (FCI) provides the numerically exact solution under a predefined basis set. However, the FCI problem scales exponentially with respect to the number of bases and electrons and suffers from the curse of dimensionality. We develop a mutli-threaded parallel coordinate descent full configuration interaction algorithm, for the electronic structure ground-state calculation in the configuration interaction framework. The algorithm solves an unconstrained nonconvex optimization problem, via a modified block coordinate descent method with a deterministic compression strategy. CDFCI captures and updates appreciative determinants with different frequencies proportional to their importance. We demonstrate the efficiency of the algorithm on practical systems.
+    </p>
+    <p>
+    <b>报告人信息</b>:
+
+    张悦嘉是复旦大学的计算数学博士生。
+
+    </p>
+    </details>
 1. Nov 27
 1. Dec 4
 1. Dec 11
