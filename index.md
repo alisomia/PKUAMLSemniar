@@ -103,7 +103,22 @@
 
    **谢中林**，北京大学，博士生
 
-   TBA
+   题目：ODE-based Learning to Optimize
+
+    <details>
+    <summary>具体信息</summary>
+    <p>
+    <b>摘要</b>:
+
+    Recent years have seen a growing interest in understanding acceleration methods through the lens of ordinary differential equations (ODEs). Despite the theoretical advancements, translating the rapid convergence observed in continuous-time models to discrete-time iterative methods poses significant challenges. In this talk, we present a comprehensive framework integrating the inertial systems with Hessian-driven damping (ISHD) and learning-based approaches for developing optimization methods. We first establish the convergence condition for ensuring the convergence of the solution trajectory of ISHD. Then, we show that provided the stability condition, the sequence generated through the explicit Euler discretization of ISHD converges, which gives a large family of practical optimization methods. In order to select the best optimization method in this family, we introduce the stopping time, the time required for an optimization method derived from ISHD to achieve a predefined level of suboptimality. Then, we formulate a novel learning to optimize (L2O) problem aimed at minimizing the stopping time subject to the convergence and stability condition. Empirical validation of our framework is conducted through extensive numerical experiments. These experiments showcase the superior performance of the learned optimization methods.
+    </p>
+    <p>
+    <b>报告人信息</b>:
+
+    谢中林，北京大学数学科学学院博士生，导师为文再文教授。他于2021年在北京大学获得学士学位。他的研究兴趣集中在深度学习和优化领域，包括加速算法、学习优化和基于微分方程设计优化算法。
+
+    </p>
+    </details>
 1. ~~Nov 6~~
 1. Nov 13
 1. Nov 20
