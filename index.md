@@ -9,7 +9,7 @@
 
 1. Sep 11
 
-    **王泽昊**, UCSD
+    **王泽昊**, UCSD，博士生
 
     题目：声音合成与处理中的高效计算：问题、技术及其在当代音乐与声音艺术中的应用
 
@@ -32,7 +32,7 @@
 1. ~~Sep 18~~
 1. Sep 25
 
-    **陈畅**, 北京大学
+    **陈畅**, 北京大学，博士生
     
     题目：Centauri: Enabling Efficient Scheduling for Communication-Computation Overlap in Large Model Training via Communication Partitioning
 
@@ -76,18 +76,41 @@
     </details>
 1. Oct 16
 
-   **王修远**，北京大学
+   **王修远**，北京大学，博士生
 
-   TBA
+   题目：Multi-scale Self-similar Finite-time Blowups of Some 1D Models for the 3D Incompressible Euler Equations
+
+    <details>
+    <summary>具体信息</summary>
+    <p>
+    <b>摘要</b>:
+
+    The fundamental problem on the global regularity of the 3D Euler and Navier-Stokes equations with smooth initial data remains one of the most challenging open problems in fluid dynamics. To investigate the competition between advection and vortex stretching in the 3D Euler equations, several one-dimensional models have been proposed, including the generalized Constantin–Lax–Majda model and the one-dimensional Hou-Luo model. In this talk, we will present our recent results on self-similar finite-time blowup solutions for these models. We establish the existence of exact self-similar finite-time blowups using a novel fixed-point method and present new findings regarding the existence of singular blowup profiles. Additionally, we will introduce a novel class of asymptotically self-similar blowup that has multi-scale features, revealing a potential new mechanism for blowup in the 3D Euler equations.
+    </p>
+    <p>
+    <b>报告人信息</b>:
+
+    王修远是北京大学数学科学学院的计算数学博士生，导师为黄得老师，研究方向是流体力学方程的爆破解存在性问题。本次报告的部分工作发表于期刊Archive for Rational Mechanics and Analysis。
+
+    </p>
+    </details>
 1. Oct 23
 
    **李世凤**，武汉大学，博士后
 
    TBA
 1. Oct 30
-1. Nov 6
+
+   **谢中林**，北京大学，博士生
+
+   TBA
+1. ~~Nov 6~~
 1. Nov 13
 1. Nov 20
+
+   **张悦嘉**，复旦大学，博士生
+
+   TBA
 1. Nov 27
 1. Dec 4
 1. Dec 11
