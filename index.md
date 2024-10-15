@@ -9,7 +9,7 @@
 
 1. Sep 11
 
-    **王泽昊**, UCSD
+    **王泽昊**, UCSD，博士生
 
     题目：声音合成与处理中的高效计算：问题、技术及其在当代音乐与声音艺术中的应用
 
@@ -32,7 +32,7 @@
 1. ~~Sep 18~~
 1. Sep 25
 
-    **陈畅**, 北京大学
+    **陈畅**, 北京大学，博士生
     
     题目：Centauri: Enabling Efficient Scheduling for Communication-Computation Overlap in Large Model Training via Communication Partitioning
 
@@ -76,18 +76,71 @@
     </details>
 1. Oct 16
 
-   **王修远**，北京大学
+   **王修远**，北京大学，博士生
 
-   TBA
+   题目：Multi-scale Self-similar Finite-time Blowups of Some 1D Models for the 3D Incompressible Euler Equations
+
+    <details>
+    <summary>具体信息</summary>
+    <p>
+    <b>摘要</b>:
+
+    The fundamental problem on the global regularity of the 3D Euler and Navier-Stokes equations with smooth initial data remains one of the most challenging open problems in fluid dynamics. To investigate the competition between advection and vortex stretching in the 3D Euler equations, several one-dimensional models have been proposed, including the generalized Constantin–Lax–Majda model and the one-dimensional Hou-Luo model. In this talk, we will present our recent results on self-similar finite-time blowup solutions for these models. We establish the existence of exact self-similar finite-time blowups using a novel fixed-point method and present new findings regarding the existence of singular blowup profiles. Additionally, we will introduce a novel class of asymptotically self-similar blowup that has multi-scale features, revealing a potential new mechanism for blowup in the 3D Euler equations.
+    </p>
+    <p>
+    <b>报告人信息</b>:
+
+    王修远是北京大学数学科学学院的计算数学博士生，导师为黄得老师，研究方向是流体力学方程的爆破解存在性问题。本次报告的部分工作发表于期刊Archive for Rational Mechanics and Analysis。
+
+    </p>
+    </details>
 1. Oct 23
 
    **李世凤**，武汉大学，博士后
 
    TBA
 1. Oct 30
-1. Nov 6
+
+   **谢中林**，北京大学，博士生
+
+   题目：ODE-based Learning to Optimize
+
+    <details>
+    <summary>具体信息</summary>
+    <p>
+    <b>摘要</b>:
+
+    Recent years have seen a growing interest in understanding acceleration methods through the lens of ordinary differential equations (ODEs). Despite the theoretical advancements, translating the rapid convergence observed in continuous-time models to discrete-time iterative methods poses significant challenges. In this talk, we present a comprehensive framework integrating the inertial systems with Hessian-driven damping (ISHD) and learning-based approaches for developing optimization methods. We first establish the convergence condition for ensuring the convergence of the solution trajectory of ISHD. Then, we show that provided the stability condition, the sequence generated through the explicit Euler discretization of ISHD converges, which gives a large family of practical optimization methods. In order to select the best optimization method in this family, we introduce the stopping time, the time required for an optimization method derived from ISHD to achieve a predefined level of suboptimality. Then, we formulate a novel learning to optimize (L2O) problem aimed at minimizing the stopping time subject to the convergence and stability condition. Empirical validation of our framework is conducted through extensive numerical experiments. These experiments showcase the superior performance of the learned optimization methods.
+    </p>
+    <p>
+    <b>报告人信息</b>:
+
+    谢中林，北京大学数学科学学院博士生，导师为文再文教授。他于2021年在北京大学获得学士学位。他的研究兴趣集中在深度学习和优化领域，包括加速算法、学习优化和基于微分方程设计优化算法。
+
+    </p>
+    </details>
+1. ~~Nov 6~~
 1. Nov 13
 1. Nov 20
+
+   **张悦嘉**，复旦大学，博士生
+
+   题目：Parallel Coordinate Descent Methods for Full Configuration Interaction
+
+    <details>
+    <summary>具体信息</summary>
+    <p>
+    <b>摘要</b>:
+
+    Solving the time-independent Schrödinger equation gives us full access to the chemical properties of molecules. Among all the ab-initio methods, full configuration interaction (FCI) provides the numerically exact solution under a predefined basis set. However, the FCI problem scales exponentially with respect to the number of bases and electrons and suffers from the curse of dimensionality. We develop a mutli-threaded parallel coordinate descent full configuration interaction algorithm, for the electronic structure ground-state calculation in the configuration interaction framework. The algorithm solves an unconstrained nonconvex optimization problem, via a modified block coordinate descent method with a deterministic compression strategy. CDFCI captures and updates appreciative determinants with different frequencies proportional to their importance. We demonstrate the efficiency of the algorithm on practical systems.
+    </p>
+    <p>
+    <b>报告人信息</b>:
+
+    张悦嘉是复旦大学的计算数学博士生。
+
+    </p>
+    </details>
 1. Nov 27
 1. Dec 4
 1. Dec 11
