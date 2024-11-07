@@ -168,10 +168,18 @@
     TBA
 1. Dec 4
 1. Dec 11
+
+    **李梦雨**， 中国人民大学
+
+    TBA
 1. Dec 18
 
    **程靖普**，National University of Singapore
 1. Dec 25
+
+    **刘茵**， BICMR
+
+    TBA
 1. Jan 1
 1. Jan 8
 
