@@ -98,7 +98,22 @@
 
    **李世凤**，武汉大学，博士后
 
-   TBA
+   题目：Numerical Methods and Analysis of Computing Quasiperiodic Systems
+
+    <details>
+    <summary>具体信息</summary>
+    <p>
+    <b>摘要</b>:
+
+    Quasiperiodic systems are important space-filling ordered structures, without decay and translational invariance. How to solve quasiperiodic systems accurately and efficiently is of great challenge. A useful approach, the projection method (PM) [J. Comput. Phys. , 256: 428, 2014], has been proposed to compute quasiperiodic systems. However, there is a lack of theoretical analysis of PM. In this report, we present a rigorous convergence analysis of the PM by establishing a mathematical framework of quasiperiodic functions and their high-dimensional periodic functions. We also give a theoretical analysis of the quasiperiodic spectral method (QSM) based on this framework. Moreover, we investigate the accuracy and efficiency of PM, QSM and periodic approximation method in solving the linear time-dependent quasiperiodic Schrödinger equation.
+    </p>
+    <p>
+    <b>报告人信息</b>:
+
+    李世凤，武汉大学博士后，主要从事准周期系统的计算方法及理论分析的研究。目前，在SINUM、Automatica、J Sci. Conput.等国内外知名期刊接受并发表了多篇论文。
+
+    </p>
+    </details>
 1. Oct 30
 
    **谢中林**，北京大学，博士生
