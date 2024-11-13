@@ -137,10 +137,24 @@
 1. ~~Nov 6~~
 1. Nov 13
 
-    **张振毅**， 北京大学
+   **张振毅**， 北京大学
 
-    TBA
+   题目：Learning stochastic dynamics from snapshots through regularized unbalanced optimal transport
 
+    <details>
+    <summary>具体信息</summary>
+    <p>
+    <b>摘要</b>:
+
+    从时间稀疏的快照分布中重建样本动力学是自然科学和机器学习中的一个重要问题，在生成模型，细胞轨迹推断中都有广泛应用。在这个报告中，我将介绍一种我们发展的从高维快照分布的样本中学习正则不平衡最优传输（Regularized Unbalanced Optimal Transport，RUOT）的深度学习方法，并推断样本的连续不平衡随机动力学。基于RUOT的框架，我们的方法实现了对动力学的建模，而无需对非平衡等信息的先验，允许这些直接从数据中学习。在理论方面，我们探索了RUOT和Schrödinger Bridge问题的联系，讨论了其中的关键挑战和潜在解决方案。我们综合了基因调控网络，高维混合高斯模型与血液中的scRNA-seq数据，验证了我们方法的有效性。与其他方法相比，我们的方法准确重建了样本的生长和运输的动力学，消除了错误的迁移，并构建了Waddington的发育能量景观。
+    </p>
+    <p>
+    <b>报告人信息</b>:
+
+    张振毅，北京大学数学科学学院博士生，导师为李铁军教授。研究兴趣为科学人工智能，数据驱动的动力学模型与计算方法。
+   
+    </p>
+    </details>
 1. Nov 20
 
    **张悦嘉**，复旦大学，博士生
