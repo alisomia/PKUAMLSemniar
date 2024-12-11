@@ -219,9 +219,25 @@
     </details>
 1. Dec 11
 
-    **李梦雨**， 中国人民大学
+    **李梦雨**，中国人民大学，博士生
 
-    TBA
+   题目：Importance Sparsification for Sinkhorn Algorithm
+
+    <details>
+    <summary>具体信息</summary>
+    <p>
+    <b>摘要</b>:
+
+    最优传输（Optimal Transport, OT）是经典的数学问题，旨在寻找一个保测度的映射或规划，使总运输代价最小。Sinkhorn算法是近似求解OT问题的主流方法，但其计算复杂度为平方阶，难以处理大规模数据。为此，我们提出了 “重要性稀疏化”版本的Sinkhorn算法，称为Spar-Sink方法，将其复杂度从平方阶降至线性，显著提高计算效率。具体而言，我们发现未知的最优传输规划具有可显式表示的已知上界，并利用这一上界进行重要性采样，对核矩阵稀疏化，从而加速计算。进一步，我们将Spar-Sink方法推广至非平衡OT问题和Gromov-Wasserstein距离，提供了一个统一的快速计算框架。我们将该方法应用于心脏超声视频分析，成功识别心脏周期并初步诊断心脏功能。实验表明，在精度相当的前提下Spar-Sink算法较Sinkhorn算法的速度提升近百倍。
+
+    </p>
+    <p>
+    <b>报告人信息</b>:
+
+    李梦雨，中国人民大学统计与大数据研究院博士生，导师为孟澄助理教授，主要研究方向为大规模统计模型和最优传输问题的高效近似算法及跨领域应用。个人主页：https://mengyu8042.github.io/
+   
+    </p>
+    </details>
 1. Dec 18
 
    **程靖普**，National University of Singapore
