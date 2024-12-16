@@ -238,9 +238,29 @@
    
     </p>
     </details>
+
 1. Dec 18
 
    **程靖普**，National University of Singapore
+
+    题目：Universal Approximation in Deep Neural Networks: A Controllability Approach
+
+    <details>
+    <summary>具体信息</summary>
+    <p>
+    <b>摘要</b>:
+
+    In this talk, we explore the expressive power of deep neural networks, especially ResNets. By idealizing deep ResNets as continuous-time control systems, the problem of interpolation and approximation can be reformulated as controllability problems. Leveraging this perspective, we establish universal interpolation and universal approximation results for a broad class of control systems. These results provide a general guarantee for the expressive power of deep ResNets, independent of specific architectural choices. Additionally, we discuss the distinction between universal approximation and universal interpolation in the context of control systems, highlighting its implications for understanding approximation rates in deep neural networks.
+
+    </p>
+    <p>
+    <b>报告人信息</b>:
+
+     程靖普，新加坡国立大学数学系博士生，导师为沈佐伟教授和李千骁助理教授，主要研究方向为控制理论在深度学习理论和算法中的应用。
+   
+    </p>
+    </details>
+
 1. Dec 25
 
     **刘茵**， BICMR
