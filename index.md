@@ -8,20 +8,18 @@
 本学期日程如下：
 
 1. Mar 12
+
    **赵悦**，北京大学，博士生
+
    题目：TBD
    <details>
     <summary>具体信息</summary>
-    
     <p>
-    <b>摘要</b>:
-
+    <b>摘要</b>: Coming soon...
     </p>
     <p>
-    <b>报告人信息</b>:
-
+    <b>报告人信息</b>: Coming soon...
     </p>
-    
     </details>
 
 1. Mar 19
