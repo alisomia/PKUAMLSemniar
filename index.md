@@ -52,7 +52,13 @@
 1. May 7
 1. May 14
 1. May 21
+
+ **刘水根**, National University of Singapore
+
 1. May 28
+
+**朱旭**, 北京大学
+
 1. Jun 4
 1. Jun 11
 1. Jun 18
