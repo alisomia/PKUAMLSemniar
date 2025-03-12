@@ -43,6 +43,9 @@
 1. Mar 26
 
 1. Apr 2
+
+    **李炳辉**， 北京大学， 博士生
+
 1. Apr 9
 1. Apr 16
 1. Apr 23
@@ -51,11 +54,11 @@
 1. May 14
 1. May 21
 
- **刘水根**, National University of Singapore
+    **刘水根**, National University of Singapore
 
 1. May 28
 
-**朱旭**, 北京大学
+    **朱旭**, 北京大学
 
 1. Jun 4
 1. Jun 11
