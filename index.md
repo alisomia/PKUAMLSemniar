@@ -26,18 +26,16 @@
 
     **何明东**, University of Oxford，博士生
 
-    题目：TBD
+    题目：Structure-preserving discretisation for the magneto-frictional equations in the Parker Conjecture
 
     <details>
     <summary>具体信息</summary>
     
     <p>
-    <b>摘要</b>:
-
+    <b>摘要</b>:The Parker conjecture, which explores whether magnetic fields in perfectly conducting plasmas can develop tangential discontinuities during magnetic relaxation, remains an open question in astrophysics. Helicity conservation provides a topological barrier during relaxation, preventing topologically nontrivial initial data relaxing to trivial solutions; preserving this mechanism discretely over long time periods is therefore crucial for numerical simulation. This work presents an energy- and helicity-preserving finite element discretization for the magneto-frictional system, for investigating the Parker conjecture. The algorithm preserves a discrete version of the topological barrier and a discrete Arnold inequality. We also discuss extensions to domains with nontrivial topology. This is a joint work with Patrick E. Farrell (Oxford)，Kaibo Hu (Edinburgh) and Boris D. Andrews (Oxford).
     </p>
     <p>
-    <b>报告人信息</b>:
-
+    <b>报告人信息</b>:何明东，英国牛津大学数学系数值分析组博士生，导师为 Prof. Patrick E. Farrell, 主要研究方向为偏微分方程数值解，目前工作在于多物理场尤其是磁流体方程组的有限元保结构离散，快速求解器以及相关应用。
     </p>
     
     </details>
