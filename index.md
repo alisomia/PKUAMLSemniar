@@ -42,6 +42,22 @@
 
 1. Mar 26
 
+    **李子牛**, 香港中文大学（深圳），博士生
+
+    题目：Large Language Model Post-Training: Formulation and Algorithms
+
+    <details>
+    <summary>具体信息</summary>
+    
+    <p>
+    <b>摘要</b>:Post-training is essential for adapting Large Language Models (LLMs) to specialized downstream tasks. This process typically involves Supervised Fine-Tuning (SFT) for instruction following and Reinforcement Learning (RL) for capability enhancement—approaches central to flagship products like ChatGPT and DeepSeek-R1. In this talk, we present new mathematical formulations for both SFT and RL. We identify several key properties that distinguish LLM post-training from classical supervised learning and standard reinforcement learning frameworks. Based on these insights, we introduce two new training algorithms: GEM for SFT and ReMax for RL. Specifically, GEM preserves output diversity, enhancing exploration in subsequent RL stages, while ReMax significantly reduces the computation complexity and opens a new paradiagm of RL for LLMs. Both algorithms come with theoretical guarantees using tools from optimization theory. This talk is expected to benefit researchers and practitioners interested in LLM implementation and those exploring the theoretical foundations of LLMs.
+    </p>
+    <p>
+    <b>报告人信息</b>:李子牛，香港中文大学（深圳）数据科学学院博士生，师从罗智泉（Tom Luo）教授。研究主要集中在机器学习算法设计与理论分析，特别关注大语言模型与强化学习应用。研究成果曾获得NeurIPS 2024 FITML Workshop最佳论文亚军、NeurIPS 2023 Spotlight以及UAI 2023 Oral演讲等荣誉。
+    </p>
+    
+    </details>
+
 1. Apr 2
 
     **李炳辉**， 北京大学， 博士生
