@@ -35,7 +35,7 @@
     <b>摘要</b>:The Parker conjecture, which explores whether magnetic fields in perfectly conducting plasmas can develop tangential discontinuities during magnetic relaxation, remains an open question in astrophysics. Helicity conservation provides a topological barrier during relaxation, preventing topologically nontrivial initial data relaxing to trivial solutions; preserving this mechanism discretely over long time periods is therefore crucial for numerical simulation. This work presents an energy- and helicity-preserving finite element discretization for the magneto-frictional system, for investigating the Parker conjecture. The algorithm preserves a discrete version of the topological barrier and a discrete Arnold inequality. We also discuss extensions to domains with nontrivial topology. This is a joint work with Patrick E. Farrell (Oxford)，Kaibo Hu (Edinburgh) and Boris D. Andrews (Oxford).
     </p>
     <p>
-    <b>报告人信息</b>:何明东，英国牛津大学数学系数值分析组博士生，导师为 Prof. Patrick E. Farrell, 主要研究方向为偏微分方程数值解，目前工作在于多物理场尤其是磁流体方程组的有限元保结构离散，快速求解器以及相关应用。
+    <b>报告人信息</b>: 何明东，英国牛津大学数学系数值分析组博士生，导师为 Prof. Patrick E. Farrell, 主要研究方向为偏微分方程数值解，目前工作在于多物理场尤其是磁流体方程组的有限元保结构离散，快速求解器以及相关应用。
     </p>
     
     </details>
@@ -53,14 +53,27 @@
     <b>摘要</b>:Post-training is essential for adapting Large Language Models (LLMs) to specialized downstream tasks. This process typically involves Supervised Fine-Tuning (SFT) for instruction following and Reinforcement Learning (RL) for capability enhancement—approaches central to flagship products like ChatGPT and DeepSeek-R1. In this talk, we present new mathematical formulations for both SFT and RL. We identify several key properties that distinguish LLM post-training from classical supervised learning and standard reinforcement learning frameworks. Based on these insights, we introduce two new training algorithms: GEM for SFT and ReMax for RL. Specifically, GEM preserves output diversity, enhancing exploration in subsequent RL stages, while ReMax significantly reduces the computation complexity and opens a new paradiagm of RL for LLMs. Both algorithms come with theoretical guarantees using tools from optimization theory. This talk is expected to benefit researchers and practitioners interested in LLM implementation and those exploring the theoretical foundations of LLMs.
     </p>
     <p>
-    <b>报告人信息</b>:李子牛，香港中文大学（深圳）数据科学学院博士生，师从罗智泉（Tom Luo）教授。研究主要集中在机器学习算法设计与理论分析，特别关注大语言模型与强化学习应用。研究成果曾获得NeurIPS 2024 FITML Workshop最佳论文亚军、NeurIPS 2023 Spotlight以及UAI 2023 Oral演讲等荣誉。
+    <b>报告人信息</b>: 李子牛，香港中文大学（深圳）数据科学学院博士生，师从罗智泉（Tom Luo）教授。研究主要集中在机器学习算法设计与理论分析，特别关注大语言模型与强化学习应用。研究成果曾获得NeurIPS 2024 FITML Workshop最佳论文亚军、NeurIPS 2023 Spotlight以及UAI 2023 Oral演讲等荣誉。
     </p>
     
     </details>
 
 1. Apr 2
 
-    **李炳辉**， 北京大学， 博士生
+    **李柄辉**， 北京大学， 博士生
+
+    题目：Theoretical Understanding of Adversarial Examples: Expressive Power and Training Dynamics
+
+    <details>
+    <summary>具体信息</summary>
+    
+    <p>
+    <b>摘要</b>:In recent years, machine learning methods—especially deep learning—have shown exceptional performance in domains like computer vision, natural language processing, speech recognition, and game playing. However, deep neural networks still face fundamental limitations in robustness and reliability. A key issue is their vulnerability to adversarial examples—small perturbations that cause incorrect predictions while being imperceptible to humans. This poses significant concerns for deploying deep models in safety-critical applications, such as autonomous driving. In this talk, we aim to provide a theoretical account of adversarial examples in deep learning. Our analysis is grounded in two key perspectives: the expressive power of neural networks and the underlying principles of feature learning. By connecting these theoretical foundations, we seek to shed light on the mechanisms that give rise to adversarial vulnerability and offer insights into potential pathways for improving model robustness.
+    </p>
+    <p>
+    <b>报告人信息</b>: 李柄辉，北京大学前沿交叉学科研究院国际机器学习研究中心2023级博士生，主要研究方向为深度学习的理论基础以及人工智能方法在数学问题中的应用。</p>
+    
+    </details>
 
 1. Apr 9
 1. Apr 16
