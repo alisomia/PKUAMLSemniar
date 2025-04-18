@@ -75,12 +75,25 @@
     
     </details>
 
-1. Apr 9
-1. Apr 16
 1. Apr 23
-1. Apr 30
-1. May 7
+
+    **吴天昊**，清华大学，博士生
+
+    题目：Capacity-Constrained Optimal Transport: Models and Algorithms
+
+    <details>
+    <summary>具体信息</summary>
+    
+    <p>
+    <b>摘要</b>:In this talk, we explore algorithms for a variant of optimal transport called capacity-constrained optimal transport, which adds extra constraints on the set of feasible couplings to limit the mass transported between each pair of source and sink. Due to the large number of constraints in this problem, existing algorithms are both time-consuming and space-consuming. We consider a regularized problem that naturally satisfies the capacity constraints and consequently propose an alternating algorithm called the double regularization method. In our method, each alternate iteration step is to solve several single-variable equations. Theoretical analysis further provides a convergence guarantee to our method. Building on this, we introduce the sampled double regularization method based on importance sampling. In this approach, we approximate each single-variable equation by sampling a subset of its terms according to a designed sampling distribution. Theoretical analysis establishes the unbiasedness of this estimator and provides a bound on the approximation error.
+    </p>
+    <p>
+    <b>报告人信息</b>: 吴天昊，清华大学数学科学系博士生，主要研究方向为最优输运及其应用，特别是在图问题与图算法中的应用。</p>
+    
+    </details>
+
 1. May 14
+
 1. May 21
 
     **刘水根**, National University of Singapore
@@ -89,7 +102,10 @@
 
     **朱旭**, 北京大学
 
-1. Jun 4
+1. Jun 3
+
+    **王立恒**，中国科学院数学与系统科学研究院
+
 1. Jun 11
 1. Jun 18
 1. Jun 25
