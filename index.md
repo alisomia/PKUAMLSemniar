@@ -94,6 +94,21 @@
 
 1. May 14
 
+    **陈日增**，北京大学，博士生
+
+    题目：A Geometric Approach to Decision Problems over the Reals
+
+    <details>
+    <summary>具体信息</summary>
+    
+    <p>
+    <b>摘要</b>:Given a Boolean combination of polynomial equations and inequalities, and assuming further that all variables are quantified by "for all" or "exists", the decision problem over the reals is to decide whether this logic formula is true or not (e.g. every monic real cubic admits a real root). In this talk, we will introduce a new geometric decision algorithm for this problem. The new algorithm is based on rebuilding the foundations of cylindrical algebraic decomposition (the classical algorithm for the same problem) from a geometric aspect. Experimental results have shown that our algorithm outperforms the existing methods.
+    </p>
+    <p>
+    <b>报告人信息</b>: 陈日增，北京大学数学科学学院应用数学专业2021级博士生，师从夏壁灿教授。研究方向涉及计算代数几何、实代数几何以及可计算性理论之间的领域交叉。曾获北京大学校长奖学金，华罗庚奖学金等荣誉。已有四篇文章被 Math. Comp., J. Symb. Comput., ISSAC 发表或接收。</p>
+    
+    </details>
+
 1. May 21
 
     **刘水根**, National University of Singapore
@@ -107,11 +122,8 @@
     **王立恒**，中国科学院数学与系统科学研究院
 
 1. Jun 11
-1. Jun 18
-1. Jun 25
-1. Jul 2
-1. Jul 9
-1. Jul 16
+
+**林挺**，北京大学
 
 
 
