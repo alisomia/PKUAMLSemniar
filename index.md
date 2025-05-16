@@ -111,7 +111,18 @@
 
 1. May 21
 
-    **刘水根**, National University of Singapore
+    **刘水根**, National University of Singapore, 博士生
+
+    题目：Localization Methods for High Dimensional Distribution Generation
+
+    <details>
+    <summary>具体信息</summary>
+    
+    <p>
+    <b>摘要</b>:In this talk, I will introduce a general strategy for sampling from high-dimensional distributions by exploiting conditional independence structure that arises from local interactions in many spatial and temporal systems. The structure induces a form of low-dimensionality that can be exploited algorithmically. I will introduce how to localize existing sampling methods, turning a high-dimensional problem into many low-dimensional subproblems. This localization not only reduces statistical complexity, but also enables efficient local and parallel computation. As examples, I will discuss MALA-within-Gibbs sampler and localized diffusion models. The localization method is grounded in a novel marginal Stein’s method, which provides quantitative estimates of the correlation decay in localized systems. This yields refined controls of the localization error, for instance, a dimension-free transport inequality for marginals. These results offer a unified perspective on how locality can be leveraged to make high-dimensional sampling both tractable and theoretically controlled.
+    </p>
+    <p>
+    <b>报告人信息</b>: 刘水根，新加坡国立大学数学学院博士生，主要研究方向为不确定量化和高维采样，导师为童心教授和包维柱教授。</p>
 
 1. May 28
 
