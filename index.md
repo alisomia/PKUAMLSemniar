@@ -140,13 +140,38 @@
     <p>
     <b>报告人信息</b>: 朱旭，北京大学数学科学学院博士生，导师为李铁军教授。研究兴趣为统计计算、优化算法与信号处理。</p>
 
-1. Jun 3
+1. Jun 5
 
-    **王立恒**，中国科学院数学与系统科学研究院
+    **王立恒**，中国科学院数学与系统科学研究院, 博士生
+    
+    题目：Combining Variational Models and Deep Learning: Aiming for Interpretable Network Design in Image Segmentation
+
+    <details>
+    <summary>具体信息</summary>
+    
+    <p>
+    <b>摘要</b>: 近十年来，深度学习方法在图像分割领域取得了显著进展，尤其是基于卷积神经网络和Transformer的模型在精度和效率上表现优异。然而，这些模型通常被视为“黑箱”，缺乏一定的可解释性，限制了其在医学影像领域的实际应用。与此同时，变分模型（如水平集方法）则利用目标的几何性质（如灰度、边界、质地等）进行分割，具有清晰的数学形式和可解释的分割机制，但其性能往往受限于手工设计能量函数的表达能力，同时也无法充分利用海量的图像数据。因此，将变分模型与深度学习相结合的研究范式应运而生，通过结合两者的互补优势，期望构建兼具高精度和可解释性的图像分割网络。本次报告主要回顾了近年来若干将两者相结合的方式，并对可能的发展方向进行展望。
+
+    </p>
+    <p>
+    <b>报告人信息</b>: 王立恒，中国科学院数学与系统科学研究院博士生，导师为陈冲副研究员。研究兴趣为医学图像重建、医学图像处理。</p>
 
 1. Jun 11
 
-**林挺**，北京大学
+   **林挺**，北京大学，博士生
+
+    题目：Finite element form-valued forms: A unified construction
+
+    <details>
+    <summary>具体信息</summary>
+    
+    <p>
+    <b>摘要</b>: We provide a finite element discretization of $\ell$-form-valued $k$ form in $n$ dimensions for general $k$, $\ell$ and $n$ and polynomial degree. The construction generalizes finite element Whitney forms for the de~Rham complex and their higher-order and distributional versions, the Regge finite elements and the Christiansen--Regge elasticity complex, the TDNNS element for symmetric stress tensors, the MCS element for traceless matrix fields, the Hellan--Herrmann--Johnson (HHJ) elements for biharmonic equations, and discrete divdiv and Hessian complexes in [Hu, Lin, and Zhang, 2025]. The construction discretizes the Bernstein--Gelfand--Gelfand (BGG) diagrams. Applications of the construction include discretization of strain and stress tensors in continuum mechanics and metric and curvature tensors in differential geometry in any dimension. This talk is based on a joint work with Kaibo Hu (Edinburgh).
+
+    </p>
+    <p>
+    <b>报告人信息</b>: 林挺，北京大学数学科学学院计算数学方向博士生。曾获北京大学未名学士，北京大学校长奖学金，东亚SIAM分会最佳论文奖一等奖等。2025年入选科协青年人才托举工程博士生专项。主要研究方向为有限元方法与深度学习中的逼近论，相关论文发表于Journal of the European Mathematical Society, Foundations of Computational Mathematics, Mathematics of Computation, Journal of Machine Learning Research, SIAM系列期刊等。</p>
+
 
 
 
